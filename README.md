@@ -15,7 +15,7 @@ Este repositório reúne o que o pôster remete ao QR code: o **artigo** (resumo
 **Resultado principal.** A seca persiste mais que a chuva. A probabilidade de um dia seco ser seguido de outro dia seco varia de 0,75 a 0,90 (faixa da escala do mapa), contra 0,4 a 0,6 para um dia chuvoso seguido de outro dia chuvoso.
 
 **Dados.** Séries diárias de precipitação da grade BR-DWGD (Xavier et al., 2022), resolução de 0,1°, 12.777 séries.
-Período: 1961 a 2020, o do artigo de Xavier et al. (2022).
+Período: 1961 a 2024.
 
 **Estados diários.**
 
