@@ -45,9 +45,9 @@ As probabilidades são estimadas pela frequência das transições em cada séri
 As faixas são as das escalas de cores de cada mapa, e não uma estatística resumo. Cada mapa tem escala própria. Os mapas estão no pôster (`poster/`) e foram gerados pelo Prof. Jáder da Silva Jale.
 
 **Conclusões do pôster.**
-1. O estado seco é o mais persistente.
-2. A permanência no estado chuvoso é menor.
-3. A mudança de estado depende do lugar: seco → chuvoso é mais provável no noroeste e no litoral leste, e chuvoso → seco, no interior.
+1. O dia seco é o mais persistente, sobretudo no interior.
+2. A persistência da chuva é menor, mais alta no noroeste.
+3. Seco → chuvoso é raro, mais no noroeste e no litoral; chuvoso → seco é mais comum, no interior.
 
 **Próximas etapas.** Cálculo sazonal e mensal, e modelo multivariado entre regiões (Ching, Ng e Fung, 2008; Elshehawey e Qian, 2023).
 
