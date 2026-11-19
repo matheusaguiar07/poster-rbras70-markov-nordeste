@@ -29,7 +29,7 @@ Período: 1961 a 2024.
 
 p(i, j) = P(X_t = j | X_(t-1) = i), com i, j em {seco, úmido, chuvoso}.
 
-As probabilidades são estimadas pela frequência das transições em cada série. A cadeia é homogênea: as probabilidades são as mesmas em todos os anos. A análise foi feita em R.
+As probabilidades são estimadas pela frequência das transições em cada série. A cadeia é homogênea: as probabilidades são as mesmas em todos os anos. Análise em R, com programa em C massivamente paralelo para GPU, para qualquer ordem k ≥ 0 (R Core Team, 2025).
 
 **Como ler os mapas.** Cada ponto mostra a probabilidade de o dia seguinte ter o segundo estado, dado o estado de hoje. Em seco → seco, é a probabilidade de amanhã ser seco quando hoje foi seco.
 
